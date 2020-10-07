@@ -1,0 +1,1 @@
+-wto "cc6dd430d9f24aea9ef58441a7e95b79" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "FullAdderSIM_behav" "xil_defaultlib.FullAdderSIM" -log "elaborate.log" 
